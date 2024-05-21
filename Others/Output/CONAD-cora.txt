@@ -1,0 +1,2 @@
+seed,weight,eta,AUC,CST,CST_equal,CST_base,loss_start_epoch,loss_end_epoch
+3,0.99,0.7991,1.34006,1.61388,2.49138,4.412936687469482,4.074166297912598

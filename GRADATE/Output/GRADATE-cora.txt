@@ -1,0 +1,2 @@
+seed,alpha,beta,gamma,AUC,CST,CST_equal,CST_base,loss_start_epoch,loss_end_epoch
+4,0.9,0.2,0.2,0.6539,0.86053,1.16261,1.16319,1.1279874129696823,1.1105391831306446

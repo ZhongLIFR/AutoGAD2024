@@ -1,0 +1,116 @@
+Epoch:0 Loss:0.69314719
+Epoch:1 Loss:0.69314696
+Epoch:2 Loss:0.69314646
+Epoch:3 Loss:0.69314415
+Epoch:4 Loss:0.69312423
+Epoch:5 Loss:0.69284662
+Epoch:6 Loss:0.69086542
+Epoch:7 Loss:0.68610834
+Epoch:8 Loss:0.68309646
+Epoch:9 Loss:0.68093645
+Epoch:10 Loss:0.67908263
+Epoch:11 Loss:0.67814833
+Epoch:12 Loss:0.67880205
+Epoch:13 Loss:0.67691596
+Epoch:14 Loss:0.67774166
+Epoch:15 Loss:0.67459619
+Epoch:16 Loss:0.67559962
+Epoch:17 Loss:0.67466762
+Epoch:18 Loss:0.67529205
+Epoch:19 Loss:0.67252684
+Epoch:20 Loss:0.67304194
+Epoch:21 Loss:0.66889945
+Epoch:22 Loss:0.66785795
+Epoch:23 Loss:0.66665724
+Epoch:24 Loss:0.66489287
+Epoch:25 Loss:0.66282234
+Epoch:26 Loss:0.65971264
+Epoch:27 Loss:0.65577505
+Epoch:28 Loss:0.65343102
+Epoch:29 Loss:0.64897832
+Epoch:30 Loss:0.64724804
+Epoch:31 Loss:0.64492461
+Epoch:32 Loss:0.64425774
+Epoch:33 Loss:0.64402375
+Epoch:34 Loss:0.63962428
+Epoch:35 Loss:0.64066145
+Epoch:36 Loss:0.63750906
+Epoch:37 Loss:0.63517173
+Epoch:38 Loss:0.63226838
+Epoch:39 Loss:0.63131795
+Epoch:40 Loss:0.62687495
+Epoch:41 Loss:0.62815068
+Epoch:42 Loss:0.62677640
+Epoch:43 Loss:0.62596813
+Epoch:44 Loss:0.62501648
+Epoch:45 Loss:0.61972414
+Epoch:46 Loss:0.62084426
+Epoch:47 Loss:0.61941457
+Epoch:48 Loss:0.61922496
+Epoch:49 Loss:0.61780680
+Epoch:50 Loss:0.61945816
+Epoch:51 Loss:0.61539212
+Epoch:52 Loss:0.61575662
+Epoch:53 Loss:0.61590730
+Epoch:54 Loss:0.61071873
+Epoch:55 Loss:0.61383481
+Epoch:56 Loss:0.61194783
+Epoch:57 Loss:0.60948576
+Epoch:58 Loss:0.60350695
+Epoch:59 Loss:0.60783724
+Epoch:60 Loss:0.60329037
+Epoch:61 Loss:0.60697952
+Epoch:62 Loss:0.60653508
+Epoch:63 Loss:0.60682274
+Epoch:64 Loss:0.60667974
+Epoch:65 Loss:0.59975649
+Epoch:66 Loss:0.60122820
+Epoch:67 Loss:0.59962330
+Epoch:68 Loss:0.59735635
+Epoch:69 Loss:0.59875810
+Epoch:70 Loss:0.59889800
+Epoch:71 Loss:0.59844338
+Epoch:72 Loss:0.59759391
+Epoch:73 Loss:0.59316456
+Epoch:74 Loss:0.59471417
+Epoch:75 Loss:0.59143078
+Epoch:76 Loss:0.59408458
+Epoch:77 Loss:0.58813684
+Epoch:78 Loss:0.59190645
+Epoch:79 Loss:0.59149444
+Epoch:80 Loss:0.58964429
+Epoch:81 Loss:0.59104175
+Epoch:82 Loss:0.58342865
+Epoch:83 Loss:0.58581000
+Epoch:84 Loss:0.58732176
+Epoch:85 Loss:0.58392053
+Epoch:86 Loss:0.58377880
+Epoch:87 Loss:0.58417915
+Epoch:88 Loss:0.58453774
+Epoch:89 Loss:0.58066053
+Epoch:90 Loss:0.57826492
+Epoch:91 Loss:0.57969293
+Epoch:92 Loss:0.57427945
+Epoch:93 Loss:0.57629331
+Epoch:94 Loss:0.57503850
+Epoch:95 Loss:0.57778257
+Epoch:96 Loss:0.57447379
+Epoch:97 Loss:0.57440434
+Epoch:98 Loss:0.57473134
+Epoch:99 Loss:0.57025667
+Loading 99th epoch
+Testing AUC!
+Testing AUC:0.7220
+
+ Contrast Score Margin:1.45301
+
+==============================
+[0.7220478752436646]
+FINAL TESTING AUC:0.7220
+==============================
+
+ Contrast Score Margin:1.53598
+AUC:0.7612
+
+ run time: 
+00:28:45.131

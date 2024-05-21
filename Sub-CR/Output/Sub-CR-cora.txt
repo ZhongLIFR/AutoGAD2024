@@ -1,0 +1,2 @@
+seed,subgraph_size,gamma,AUC,CST,CST_equal,CST_base,loss_start_epoch,loss_end_epoch
+5,2,0.99,0.8967,1.61235,1.36961,2.86374,0.706142270565033,0.6430549025535583
