@@ -1,6 +1,6 @@
 # Towards Automated Self-Supervised Learning for Truly Unsupervised Graph Anomaly Detection
 
-Paper submitted to DAMI (Data Mining and Knowledge Discovery journal) for publication (May 2024)
+Paper accepted by DAMI (Data Mining and Knowledge Discovery journal) for publication (June 2025)
 
 ## Contribution
 
