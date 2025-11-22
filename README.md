@@ -1,6 +1,6 @@
 # Towards Automated Self-Supervised Learning for Truly Unsupervised Graph Anomaly Detection
 
-Paper accepted by DMKD (Data Mining and Knowledge Discovery journal) for publication (June 2025); 
+Paper accepted by DMKD (Data Mining and Knowledge Discovery journal) for publication (June 2025), which is available via this [link](https://link.springer.com/article/10.1007/s10618-025-01115-5). 
 
 This paper is also accepted by AAAI 2026 journal track for presentation (November 2025).
 
